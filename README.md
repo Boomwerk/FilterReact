@@ -1,8 +1,8 @@
 ## capture
 
-[https://github.com/Boomwerk/FilterReact/search1.PNG]
+![capture1](https://github.com/Boomwerk/FilterReact/search1.PNG)
 
-[https://github.com/Boomwerk/FilterReact/search.PNG]
+![capture](https://github.com/Boomwerk/FilterReact/search.PNG)
 
 # Getting Started with Create React App
 
